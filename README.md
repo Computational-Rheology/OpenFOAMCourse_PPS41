@@ -21,7 +21,7 @@ wsl –-install -d Ubuntu-24.04
 ```
 
 ## 3-Visual Studio Code
-![VSCode](./Covers/Slide5.jpg)
+![VSCode](./Covers/Slide5.JPG)
 
 [Video](https://youtu.be/hzr0HRTfKgA)
 
@@ -35,7 +35,7 @@ Installation website: https://code.visualstudio.com/
 Installation website: https://gitlab.com/openfoam/core/openfoam/-/wikis/precompiled/debian
 
 ## 5-Paraview 6.1.1
-![Paraview](./Covers/Slide7.jpg)
+![Paraview](./Covers/Slide7.JPG)
 
 [Video](https://youtu.be/JEJfGAcsZgQ)
 
@@ -43,7 +43,7 @@ Installation website: https://www.paraview.org/download/
 
 
 ## 6-FreeCAD 1.1.1
-![OpenFOAM](./Covers/Slide8.jpg)
+![OpenFOAM](./Covers/Slide8.JPG)
 
 [Video](https://youtu.be/3x1gUifncLA)
 
