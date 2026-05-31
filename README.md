@@ -1,6 +1,6 @@
 # **Introduction to OpenFOAM® Computational Library and Design of Profile Extrusion Dies**
 ## João Miguel Nóbrega and Mohammadreza Aali
-## University of Minho
+## University of Minho and Johannes Kepler University of Linz
 
 # System Setup
 
