@@ -34,6 +34,10 @@ Installation website: https://code.visualstudio.com/
 
 Installation website: https://gitlab.com/openfoam/core/openfoam/-/wikis/precompiled/debian
 
+commands to run
+```
+echo 'shopt -s direxpand' >> ~/.bashrc 
+```
 ## 5-Paraview 6.1.1
 ![Paraview](./Covers/Slide7.JPG)
 
