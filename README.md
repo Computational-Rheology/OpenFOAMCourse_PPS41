@@ -36,6 +36,19 @@ Installation website: https://gitlab.com/openfoam/core/openfoam/-/wikis/precompi
 
 commands to run
 ```
+# Add the repository
+curl -s https://dl.openfoam.com/add-debian-repo.sh | sudo bash
+
+# Update the repository information
+sudo apt-get update
+
+# Install preferred package. Eg,
+sudo apt-get install openfoam2412-default
+
+# Use the openfoam shell session. Eg,
+openfoam2412
+
+# Setup the variables expansion
 echo 'shopt -s direxpand' >> ~/.bashrc 
 ```
 ## 5-Paraview 6.1.1
