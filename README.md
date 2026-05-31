@@ -6,7 +6,7 @@
 
 
 ## 1-Introduction
-![Introduction](./Covers/Slide1.jpg)
+![Introduction](./Covers/Slide1.JPG)
 
 [Video](https://youtu.be/XPClAtVewAU)
 
