@@ -43,10 +43,10 @@ curl -s https://dl.openfoam.com/add-debian-repo.sh | sudo bash
 sudo apt-get update
 
 # Install preferred package. Eg,
-sudo apt-get install openfoam2412-default
+sudo apt-get install openfoam2512-default
 
 # Use the openfoam shell session. Eg,
-openfoam2412
+openfoam2512
 
 # Setup the variables expansion
 echo 'shopt -s direxpand' >> ~/.bashrc 
