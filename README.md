@@ -8,7 +8,7 @@
 ## 1-Introduction
 ![Introduction](./Covers/Slide1.JPG)
 
-[Video](https://youtu.be/XPClAtVewAU)
+[Video](https://youtu.be/JfdOgG3EF_w)
 
 
 ## 2-Windows Subsystem Linux
@@ -23,14 +23,14 @@ wsl –-install -d Ubuntu-24.04
 ## 3-Visual Studio Code
 ![VSCode](./Covers/Slide5.JPG)
 
-[Video](https://youtu.be/hzr0HRTfKgA)
+[Video](https://youtu.be/j1cIAIaGunY)
 
 Installation website: https://code.visualstudio.com/
 
 ## 4-OpenFOAM v2512
 ![OpenFOAM](./Covers/Slide6.JPG)
 
-[Video](https://youtu.be/3x1gUifncLA)
+[Video](https://youtu.be/n6GUmFz95oQ)
 
 Installation website: https://gitlab.com/openfoam/core/openfoam/-/wikis/precompiled/debian
 
