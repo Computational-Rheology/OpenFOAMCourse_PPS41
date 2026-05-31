@@ -12,7 +12,7 @@
 
 
 ## 2-Windows Subsystem Linux
-![Windows Subsystem Linux](./Covers/Slide4.jpg)
+![Windows Subsystem Linux](./Covers/Slide4.JPG)
 
 [Video](https://youtu.be/gRKmsotZp4Y)
 
@@ -28,7 +28,7 @@ wsl –-install -d Ubuntu-24.04
 Installation website: https://code.visualstudio.com/
 
 ## 4-OpenFOAM v2512
-![OpenFOAM](./Covers/05-OpenFOAM.JPG)
+![OpenFOAM](./Covers/Slide6.JPG)
 
 [Video](https://youtu.be/3x1gUifncLA)
 
