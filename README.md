@@ -1,5 +1,5 @@
-# **GETTING STARTED WITH OPENFOAM: FUNDAMENTALS AND PRACTICAL COATING APPLICATIONS**
-## João Miguel Nóbrega and João Vidal
+# **Introduction to OpenFOAM® Computational Library and Design of Profile Extrusion Dies**
+## João Miguel Nóbrega and Mohammadreza Aali
 ## University of Minho
 
 # System Setup
