@@ -6,13 +6,13 @@
 
 
 ## 1-Introduction
-![Introduction](./Covers/01-Intro.JPG)
+![Introduction](./Covers/Slide1.jpg)
 
 [Video](https://youtu.be/XPClAtVewAU)
 
 
 ## 2-Windows Subsystem Linux
-![Windows Subsystem Linux](./Covers/02-WSL.JPG)
+![Windows Subsystem Linux](./Covers/Slide4.jpg)
 
 [Video](https://youtu.be/gRKmsotZp4Y)
 
@@ -21,24 +21,30 @@ wsl –-install -d Ubuntu-24.04
 ```
 
 ## 3-Visual Studio Code
-![VSCode](./Covers/03-VSCode.JPG)
+![VSCode](./Covers/Slide5.jpg)
 
 [Video](https://youtu.be/hzr0HRTfKgA)
 
 Installation website: https://code.visualstudio.com/
 
+## 4-OpenFOAM v2512
+![OpenFOAM](./Covers/05-OpenFOAM.JPG)
 
-## 4-Paraview 6.0
-![Paraview](./Covers/04-Paraview.JPG)
+[Video](https://youtu.be/3x1gUifncLA)
+
+Installation website: https://gitlab.com/openfoam/core/openfoam/-/wikis/precompiled/debian
+
+## 5-Paraview 6.1.1
+![Paraview](./Covers/Slide7.jpg)
 
 [Video](https://youtu.be/JEJfGAcsZgQ)
 
 Installation website: https://www.paraview.org/download/
 
 
-## 5-OpenFOAM v2506
-![OpenFOAM](./Covers/05-OpenFOAM.JPG)
+## 6-FreeCAD 1.1.1
+![OpenFOAM](./Covers/Slide8.jpg)
 
 [Video](https://youtu.be/3x1gUifncLA)
 
-Installation website: https://gitlab.com/openfoam/core/openfoam/-/wikis/precompiled/debian
+Installation website: https://www.freecad.org/downloads.php
