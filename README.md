@@ -14,7 +14,7 @@
 ## 2-Windows Subsystem Linux
 ![Windows Subsystem Linux](./Covers/Slide4.JPG)
 
-[Video](https://youtu.be/gRKmsotZp4Y)
+[Video](https://youtu.be/aXJjHlPzC7c)
 
 ```
 wsl –-install -d Ubuntu-24.04
@@ -51,10 +51,10 @@ openfoam2512
 # Setup the variables expansion
 echo 'shopt -s direxpand' >> ~/.bashrc 
 ```
-## 5-Paraview 6.1.1
+## 5-Paraview 6
 ![Paraview](./Covers/Slide7.JPG)
 
-[Video](https://youtu.be/JEJfGAcsZgQ)
+[Video](https://youtu.be/gdrhQ07d9mU)
 
 Installation website: https://www.paraview.org/download/
 
@@ -62,6 +62,6 @@ Installation website: https://www.paraview.org/download/
 ## 6-FreeCAD 1.1.1
 ![OpenFOAM](./Covers/Slide8.JPG)
 
-[Video](https://youtu.be/3x1gUifncLA)
+[Video](https://youtu.be/p5oqfOFpeV4)
 
 Installation website: https://www.freecad.org/downloads.php
