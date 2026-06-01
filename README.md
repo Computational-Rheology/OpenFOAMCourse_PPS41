@@ -51,10 +51,10 @@ openfoam2512
 # Setup the variables expansion
 echo 'shopt -s direxpand' >> ~/.bashrc 
 ```
-## 5-Paraview 6
+## 5-Paraview 6.1.1
 ![Paraview](./Covers/Slide7.JPG)
 
-[Video](https://youtu.be/gdrhQ07d9mU)
+[Video](https://youtu.be/32NeZjdRIBc)
 
 Installation website: https://www.paraview.org/download/
 
